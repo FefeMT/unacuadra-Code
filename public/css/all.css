@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    margin: 0rem;
+    padding: 0rem;
+    border: none;
+}
+
+img{
+    max-width: 100%;
+}
